@@ -55,7 +55,7 @@ main.js
 
 import square from './utils.js'
 
-Named exports - Every file can have as many named exports as we want to define. In orderto import named 
+Named exports - Every file can have as many named exports as we want to define. In order to import named 
 exports, we need to give exact same name we used for importing. We cant export anything without declaring it first. Also we can use as many export statements in a file as we want.
 
 Eg : 
